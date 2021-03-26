@@ -75,6 +75,6 @@ GNU General Public License v3.0
 
 ## Links
 
-Heroku:
+Heroku:https://hallofwhispers.herokuapp.com/
 
-Repo:
+Repo:https://github.com/alzcheng/HallofWhispers/
